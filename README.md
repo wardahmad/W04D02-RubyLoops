@@ -160,7 +160,8 @@ end
 > [**Further Reading on Ruby loops**](http://www.tutorialspoint.com/ruby/ruby_loops.htm)
 
 
-### Exercise: Practice Each (15 minutes)
+### Labs
+### Practice Each (15 minutes)
 
 Use `each` to do the following...
 
@@ -191,7 +192,7 @@ Use `each` to do the following...
   ninja_turtles = []
   ```
 
-- **Bonus:** Print out every possible combination of the below ice cream flavors and toppings.
+- Print out every possible combination of the below ice cream flavors and toppings.
 
   ```ruby
   flavors = [ "vanilla", "chocolate", "strawberry", "butter pecan", "cookies and cream", "rainbow" ]
