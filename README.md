@@ -288,7 +288,7 @@ What's the difference between `.map` and `.map!`?
 
 ```
 
-### Exercise: Practice Map (15 minutes)
+### Practice Map (15 minutes)
 
 Use `map` to do the following...  
 
