@@ -325,8 +325,8 @@ Use `map` to do the following...
   ### Labs - More on Loops (30 minutes)
  
 
-1. choose the correct answer.
-While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false.
+1. choose the correct answer. <br>
+While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false. <br>
 a) True
 b) False
 --------
