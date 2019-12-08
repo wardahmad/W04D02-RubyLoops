@@ -87,7 +87,8 @@ While map does the same thing, but…<br><br>
 
 It returns a new array with the transformed elements.
 <br><br>
-
+<hr>
+<br>
 For blocks with longer lines or multiple lines, replace `{` and `}` with `do` and `end`
 
 ```ruby
