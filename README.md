@@ -323,7 +323,11 @@ Use `map` to do the following...
  
   
   ### Labs - More on Loops (30 minutes)
- 
+  
+  <hr>
+  Note: Think on it and guess what should be the right answer. Make a scanario on paper to check what is the result of each iteration before checking it on your systems.
+ <hr>
+ <br>
 
 1. choose the correct answer. <br>
 While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false. <br>
