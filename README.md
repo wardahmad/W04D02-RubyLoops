@@ -73,6 +73,21 @@ arr.map { |num| num / 10 }
 
 `each` and `map` also take blocks (just like `forEach` and `map` take callbacks in JS).
 
+### Ruby Map vs Each
+
+What is the difference between map & each? <br><br>
+
+Each is like a more primitive version of map…<br><br>
+
+It gives you every element so you can work with it, but it doesn’t collect the results.<br><br>
+
+Each always returns the original, unchanged object.<br><br>
+
+While map does the same thing, but…<br><br>
+
+It returns a new array with the transformed elements.
+<br><br>
+
 For blocks with longer lines or multiple lines, replace `{` and `}` with `do` and `end`
 
 ```ruby
