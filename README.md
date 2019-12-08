@@ -317,13 +317,16 @@ Use `map` to do the following...
 
   #=> [-89.2, -17.8, 0, 60, 100]
   ```
-  
+ <br>
+ <br>
+ <hr>
+ 
   
   ### Labs - More on Loops (30 minutes)
-  
-  #### choose the correct answer
+ 
 
-1. While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false.
+1. choose the correct answer.
+While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false.
 a) True
 b) False
 --------
