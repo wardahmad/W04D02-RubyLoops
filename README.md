@@ -62,7 +62,7 @@ We can also iterate over arrays:
 ```ruby
 arr = [10, 20, 30]
 
-arr.each { |num| puts num }
+arr.each { |num| num }
 # > 10
 # > 20
 # > 30
