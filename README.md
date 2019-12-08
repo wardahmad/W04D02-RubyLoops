@@ -47,7 +47,6 @@ In Ruby this is much cleaner:
 
 We also have `.upto` and `.downto` methods for looping.
 
-> Yes there _are_ `for` loops in Ruby but we DO NOT use them
 
 But, the closest equivalent to JavaScript's `for` loop is Rubys `for...in` loop
 
