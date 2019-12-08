@@ -317,3 +317,216 @@ Use `map` to do the following...
 
   #=> [-89.2, -17.8, 0, 60, 100]
   ```
+  
+  
+  ### Labs - More on Loops (30 minutes)
+  
+  #### choose the correct answer
+
+1. While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false.
+a) True
+b) False
+--------
+
+2. What is the output of the given code?
+
+```ruby
+counter = 1
+while counter < 11
+  puts counter
+  counter = counter + 1
+end
+```
+1. Prints the number from 1 to 10 
+2. Prints the number from 1 to 11
+3. Prints the number from 2 to 10
+4. Infinite loop
+
+--------
+3. What is the output of the given code?
+
+```ruby
+counter = true
+while counter !=false
+  puts counter
+end
+```
+<ol type="a">
+  <li>True</li>
+  <li>False</li>
+  <li>Syntax error</li>
+  <li>Infinite loop</li>
+
+</ol>
+
+
+---------
+
+4. What is the output of the given code?
+
+```ruby
+i = 0
+while i < 5
+  puts i
+   i=(i+1)**2
+end
+```
+<ol type="a">
+  <li>1 2 3 4 5</li>
+  <li>0 1 4</li>
+  <li>0 1</li>
+  <li>1 4</li>
+
+</ol>
+
+--------------
+
+5. What is the output of the given code?
+```ruby
+a=5
+b=15
+while a&&b
+puts a+b
+end
+```
+<ol type="a">
+  <li>5..15</li>
+  <li>20</li>
+  <li>Infinite loop</li>
+  <li>5 15</li>
+
+</ol>
+
+--------------
+
+6. What is the output of the given code?
+
+```ruby
+a=5
+b=15
+while b>a
+puts a*(b-a)
+while a>b
+  a+=1
+  b-=1
+end
+end
+```
+<ol type="a">
+  <li>5..15</li>
+  <li>20</li>
+  <li>Infinite loop</li>
+  <li>5 15</li>
+
+</ol>
+
+---------------------
+
+7. What is the output of the given code?
+```ruby
+i = 3
+while i > 0 do
+  print i
+  i -= 1
+end
+```
+<ol type="a">
+  <li>3</li>
+  <li>321</li>
+  <li>Infinite loop</li>
+  <li> 3 2 1 0</li>
+
+</ol>
+
+---------------------
+
+8. What is the output of the given code?
+```ruby
+i = 50
+while i > 25 do
+  print 50/i
+  i -= 1
+end
+```
+<ol type="a">
+  <li> 50..25</li>
+  <li>50..1</li>
+  <li>Infinite loop</li>
+  <li>1111111111111111111111111</li>
+
+</ol>
+
+---------------------
+9. What is the output of the given code?
+```ruby
+a = 5
+b=10
+while a<b do
+  puts a*b
+  a+=2
+  b-=2
+  end
+```
+<ol type="a">
+  <li>5 10</li>
+  <li> 50 56</li>
+  <li>Infinite loop</li>
+  <li> 5 6 7 8 9 10</li>
+
+</ol>
+
+---------------------
+10. What is the output of the given code?
+```ruby
+i = 50 
+j=55
+while i > 25 && j>35 do
+  puts 50*j/i
+  i -= 1
+  j-=2
+end
+```
+<ol type="a">
+  <li>25 35</li>
+  <li>50 55</li>
+  <li>Infinite loop</li>
+  <li> 55 54 53 52 51 50 48 47 46 45</li>
+
+</ol>
+
+
+---------------------
+11. What is the output of the given code?
+```ruby
+i = 50 
+j=55
+while i > 25 && i*j<100 do
+  puts (50*j)/i
+  i -= 1
+  j-=2
+end
+```
+<ol type="a">
+  <li>25 35</li>
+  <li>No output</li>
+  <li>Infinite loop</li>
+  <li>55 54 53 52 51 50 48 47 46 45</li>
+
+</ol>
+
+
+---------------------
+12. Take inputs from user to make an array. Again take one input from user and search it in the array and delete that element, if found. Iterate over array using for loop.
+
+------
+  
+
+13. Using (1...101), make two array, one containing all even numbers and other containing all odd numbers.
+
+------
+
+
+
+
+
+
