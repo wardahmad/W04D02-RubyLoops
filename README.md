@@ -47,6 +47,18 @@ In Ruby this is much cleaner:
 
 We also have `.upto` and `.downto` methods for looping.
 
+```ruby
+#Initializing the number 
+num1 = 8 
+num2 = 12 
+  
+#Prints the number from num1 to num2 
+num1.upto(num2){ | i | puts i, " "} 
+```
+
+<br>
+Lets change it to .downto
+<br><br>
 
 But, the closest equivalent to JavaScript's `for` loop is Rubys `for...in` loop
 
